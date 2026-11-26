@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Karanfil', 'cintemani', 'lale', 'smbl']
+
+roboflow:
+  workspace: sevo
+  project: my-first-project-64ham
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sevo/my-first-project-64ham/dataset/3

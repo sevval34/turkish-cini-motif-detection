@@ -1,0 +1,17 @@
+# Python & IDE
+__pycache__/
+.venv/
+.idea/
+
+# Veri Setleri ve Görseller
+train/
+test/
+valid/
+uploads/
+outputs/
+
+# Eğitim Sonuçları
+runs/
+
+# Model Ağırlıkları
+*.pt
